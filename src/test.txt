@@ -1,0 +1,4 @@
+#for a single element
+python test.py -in 006000.png -mn final_run_4.pth
+#for the whole dataset
+python test.py -ft "Y" -mn final_run_4.pth
